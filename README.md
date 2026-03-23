@@ -36,8 +36,7 @@ Backend: PHP
 
 # Structure File
 /project-root
-
-│── mainWeb.php        # หน้าเว็บหลัก
-│── golf.php           # หน้ากีฬากอล์ฟ
-│── football.php       # หน้ากีฬาฟุตบอล
-│── /assets            # CSS, รูปภาพ, ไฟล์อื่น ๆ
+│── - mainWeb.php        # หน้าเว็บหลัก
+│── - golf.php           # หน้ากีฬากอล์ฟ
+│── - football.php       # หน้ากีฬาฟุตบอล
+│── - /assets            # CSS, รูปภาพ, ไฟล์อื่น ๆ
